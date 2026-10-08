@@ -31,7 +31,7 @@ dependencies {
     implementation Libs.appCompat
     implementation Libs.retrofit
     implementation Libs.playServiceLocation
-    implementation Libs.koinCore
+    implementation "io.insert-koin:koin-core:2.0.1"
     implementation Libs.mpchart
     testImplementation TestLibs.junit
 }
