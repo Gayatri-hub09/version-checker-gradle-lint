@@ -78,7 +78,16 @@ lintOptions {
     enable "VersionCheckerGradleLint"
 }
 ```
+## Enhancements
 
+This fork extends the original project with improvements focused on
+dependency version visibility, developer experience, and automation.
+
+### Planned Improvements
+- Dependency version reporting
+- Improved dependency update visibility
+- Automated testing
+- CI workflow using GitHub Actions
 ## License
 ```
 MIT License
